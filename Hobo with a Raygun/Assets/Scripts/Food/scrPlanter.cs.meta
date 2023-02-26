@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ca4da1f6bdd8da479c351521df8daef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - planterEmpty: {fileID: 105830913852235243, guid: 2ab240a7e63017645b1686f97e4076a7,
+      type: 3}
+  - sprHalf: {instanceID: 0}
+  - sprFull2: {instanceID: 0}
+  - sprFull3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

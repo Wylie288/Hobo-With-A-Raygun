@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d265f32f74a3fcd459fa0b6fa22a8c2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueSquare: {fileID: 3416016710770209098, guid: 2fe6261630a4a5c47bb8a7f493bd768d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
